@@ -43,6 +43,7 @@ mongoose
         console.error('❌ MongoDB connection error:', err.message);
         process.exit(1);
     });
+    
 
 // ── Start ─────────────────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 3000;
