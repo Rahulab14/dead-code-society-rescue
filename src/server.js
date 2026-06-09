@@ -44,7 +44,6 @@ mongoose
         process.exit(1);
     });
     
-
 // ── Start ─────────────────────────────────────────────────────────────────────
 const PORT = process.env.PORT || 3000;
 app.listen(PORT, () => console.log(`🚀 LogiTrack API running on port ${PORT}`));
