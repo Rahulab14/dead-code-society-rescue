@@ -4,6 +4,7 @@
 
 ---
 
+
 ### 🔴 Security Fixes
 
 #### CRITICAL: Replaced MD5 with bcrypt for password hashing
